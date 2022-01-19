@@ -19,3 +19,6 @@ const rps = (p1, p2) => {
       return 'Draw!';
     }
   };
+
+const toUpperCase = 'Miten meni omasta mielestä?'
+console.log(sentence.toUpperCase());
