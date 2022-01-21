@@ -10,3 +10,7 @@ const x = (a, b) => {
 };
 
 console.log(x(1, 2));
+
+const a = (b) => {
+    return b.toUpperCase()
+}
